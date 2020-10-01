@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+    <string name="description">This is a Quiz that helps assess your Intelligent Quotient and ability in Quantitative Reasoning. It will take less than 3 minutes to complete. Thank you</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="quiz_category">Quiz</string>
+    <string name="q5">The hardest substance available on earth is?</string>
+    <string name="submit">SUBMIT</string>
+    <string name="fill_name">Fill in your name</string>
+    <string name="welcome_message">Welcome User</string>
+    <string name="n1">Question 1.</string>
+    <string name="n2">Question 2</string>
+    <string name="q1">Which of the following is not a primary colour?</string>
+    <string name="q2">The gas usually filled in the electric bulb is?</string>
+    <string name="n3">Question 3.</string>
+    <string name="q3">Washing soda is the common name for?</string>
+    <string name="n4">Question 4.</string>
+    <string name="q4">Which of the gas is not known as green house gas?</string>
+    <string name="n5">Question 5.</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="Nitrogen">Nitrogen</string>
+    <string name="Hydrogen">Hydrogen</string>
+    <string name="Carbon_dioxide">Carbon dioxide</string>
+    <string name="Oxygen">Oxygen</string>
+    <string name="Calcium_bicarbonate">Calcium bicarbonate</string>
+    <string name="Sodium_carbonate">Sodium carbonate</string>
+    <string name="Sodium_bicarbonate">Sodium bicarbonate</string>
+    <string name="Calcium_carbonate">Calcium carbonate</string>
+    <string name="Platinum">Platinum</string>
+    <string name="Iron">Iron</string>
+    <string name="Diamond">Diamond</string>
+    <string name="Gold">Gold</string>
+    <string name="Nitrous_oxide">Nitrous Oxide</string>
+    <string name="Methane">Methane</string>
+    <string name="todo">TODO</string>
+
+</resources>
